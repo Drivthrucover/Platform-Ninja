@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 67731b7c3d829b6458f56b120d5dbf33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 217964229493650
+    second: Run Ninja_0
+  - first:
+      213: 5551253644981951188
+    second: Run Ninja_1
+  - first:
+      213: 5125889045018768647
+    second: Run Ninja_2
+  - first:
+      213: -198721473412883780
+    second: Run Ninja_3
+  - first:
+      213: 4847430235153095776
+    second: Run Ninja_4
+  - first:
+      213: 7642806295581349608
+    second: Run Ninja_5
+  - first:
+      213: 9218589230876149943
+    second: Run Ninja_6
+  - first:
+      213: 3733287790968237004
+    second: Run Ninja_7
+  - first:
+      213: -3293304607857659939
+    second: Run Ninja_8
+  - first:
+      213: -826578337382060066
+    second: Run Ninja_9
+  - first:
+      213: 3029592588942040579
+    second: Run Ninja_10
+  - first:
+      213: 202672814737486639
+    second: Run Ninja_11
+  - first:
+      213: 1901011281026341612
+    second: Run Ninja_12
+  - first:
+      213: 8830362285814517982
+    second: Run Ninja_13
+  - first:
+      213: 4409588308045216676
+    second: Run Ninja_14
+  - first:
+      213: 5914042082203545148
+    second: Run Ninja_15
+  - first:
+      213: 740496452485360184
+    second: Run Ninja_16
+  - first:
+      213: -5739113027570440784
+    second: Run Ninja_17
+  - first:
+      213: -3797584524879127833
+    second: Run Ninja_18
+  - first:
+      213: -2287103673440515950
+    second: Run Ninja_19
+  - first:
+      213: -5841266523391062178
+    second: Run Ninja_20
+  - first:
+      213: -4113731202736756494
+    second: Run Ninja_0
+  - first:
+      213: -798621217214270597
+    second: Run Ninja_1
+  - first:
+      213: 6836320309772838799
+    second: Run Ninja_2
+  - first:
+      213: -3079394810760958238
+    second: Run Ninja_3
+  - first:
+      213: -1089821300913967724
+    second: Run Ninja_4
+  - first:
+      213: 4037360534090771354
+    second: Run Ninja_5
+  - first:
+      213: -3032927636161880805
+    second: Run Ninja_6
+  - first:
+      213: -9088936713732646035
+    second: Run Ninja_7
+  - first:
+      213: 605687588257270687
+    second: Run Ninja_8
+  - first:
+      213: -996837254341505628
+    second: Run Ninja_9
+  - first:
+      213: 2707915541853442098
+    second: Run Ninja_10
+  - first:
+      213: 6532264449391569645
+    second: Run Ninja_11
+  - first:
+      213: -2853564544911296720
+    second: Run Ninja_12
+  - first:
+      213: 8555079160830595655
+    second: Run Ninja_13
+  - first:
+      213: 7903780327052511803
+    second: Run Ninja_14
+  - first:
+      213: -8045189644975361361
+    second: Run Ninja_15
+  - first:
+      213: 4131913706798507481
+    second: Run Ninja_16
+  - first:
+      213: 5555978466505114586
+    second: Run Ninja_17
+  - first:
+      213: 2659081516129095098
+    second: Run Ninja_18
+  - first:
+      213: -3170508437592696079
+    second: Run Ninja_19
+  - first:
+      213: -6251451809504726511
+    second: Sprite_0
+  - first:
+      213: -5666552777093224069
+    second: Sprite_1
+  - first:
+      213: 7183195401824034768
+    second: Sprite_2
+  - first:
+      213: 6366529046394908241
+    second: Sprite_3
+  - first:
+      213: 175962787396787636
+    second: Sprite_4
+  - first:
+      213: -5125555198026612319
+    second: Sprite_5
+  - first:
+      213: -460009008014463613
+    second: Sprite_6
+  - first:
+      213: -2210973394768525440
+    second: Sprite_7
+  - first:
+      213: -1278303141353753420
+    second: Sprite_8
+  - first:
+      213: 5878697427789829685
+    second: Sprite_9
+  - first:
+      213: -6264258568678072142
+    second: Sprite_10
+  - first:
+      213: -5169381219432646030
+    second: Sprite_11
+  - first:
+      213: -7938948767547733923
+    second: Sprite_12
+  - first:
+      213: 6105943167890795925
+    second: Sprite_13
+  - first:
+      213: 509386604416939864
+    second: Sprite_14
+  - first:
+      213: 5294996605036385756
+    second: Sprite_15
+  - first:
+      213: -8968834113577740606
+    second: Sprite_16
+  - first:
+      213: -2756971324452006476
+    second: Sprite_17
+  - first:
+      213: -3109212629624274104
+    second: Sprite_18
+  - first:
+      213: -1474523002606144131
+    second: Sprite_19
+  - first:
+      213: 2256980624823195114
+    second: Sprite_20
+  - first:
+      213: 149994607237587861
+    second: Sprite_0
+  - first:
+      213: 4805635043808060924
+    second: Sprite_1
+  - first:
+      213: -3913843893751616547
+    second: Sprite_2
+  - first:
+      213: 6716125467776858131
+    second: Sprite_3
+  - first:
+      213: 3139937899222606906
+    second: Sprite_4
+  - first:
+      213: 1655564712963217352
+    second: Sprite_5
+  - first:
+      213: -6292877520414629545
+    second: Sprite_6
+  - first:
+      213: 983805510396292991
+    second: Sprite_7
+  - first:
+      213: -7604427706907004301
+    second: Sprite_8
+  - first:
+      213: 5090419255484758194
+    second: Sprite_9
+  - first:
+      213: -1635713413377129677
+    second: Sprite_10
+  - first:
+      213: -4462176728368816712
+    second: Sprite_11
+  - first:
+      213: -4753495581828155089
+    second: Sprite_12
+  - first:
+      213: -8567886673576141657
+    second: Sprite_13
+  - first:
+      213: 7738529486075147661
+    second: Sprite_14
+  - first:
+      213: -1476176826224184949
+    second: Sprite_15
+  - first:
+      213: -8772575118999407301
+    second: Sprite_16
+  - first:
+      213: 1085708147204411483
+    second: Sprite_17
+  - first:
+      213: -7639375844447662177
+    second: Sprite_18
+  - first:
+      213: 6648567453183178566
+    second: Sprite_19
+  - first:
+      213: -115275820213684063
+    second: Sprite_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593ee92fc43e41200800000000000000
+      internalID: 149994607237587861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5295a6c9b01b240800000000000000
+      internalID: 4805635043808060924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb6a9e07bb3fa9c0800000000000000
+      internalID: -3913843893751616547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3183bc58788743d50800000000000000
+      internalID: 6716125467776858131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3423fb12ec439b20800000000000000
+      internalID: 3139937899222606906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c718dab55fb9f610800000000000000
+      internalID: 1655564712963217352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75125ac7c353ba8a0800000000000000
+      internalID: -6292877520414629545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f2e3736ed27ad00800000000000000
+      internalID: 983805510396292991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

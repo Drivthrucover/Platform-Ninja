@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 6b101911561c82a4ba3c59a0c9ff29b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 314116803710546964
+    second: Coin Animation_0
+  - first:
+      213: -9207336368991731520
+    second: Coin Animation_1
+  - first:
+      213: -5255677403845685011
+    second: Coin Animation_2
+  - first:
+      213: -7031852506055808454
+    second: Coin Animation_3
+  - first:
+      213: 3841189522021473899
+    second: Coin Animation_4
+  - first:
+      213: 9030319978520041152
+    second: Coin Animation_5
+  - first:
+      213: 3118315653168411572
+    second: Coin Animation_6
+  - first:
+      213: 4049864952413195134
+    second: Coin Animation_7
+  - first:
+      213: -5057813257232770484
+    second: Coin Animation_8
+  - first:
+      213: 3325486785202298111
+    second: Coin Animation_9
+  - first:
+      213: -4825076318036015943
+    second: Coin Animation_10
+  - first:
+      213: 6787647296838007334
+    second: Coin Animation_11
+  - first:
+      213: -4911052312746868067
+    second: Coin Animation_12
+  - first:
+      213: -7463824512107324341
+    second: Coin Animation_13
+  - first:
+      213: -1867033985463899184
+    second: Coin Animation_14
+  - first:
+      213: -1073525718111943155
+    second: Coin Animation_15
+  - first:
+      213: -1226797127666606343
+    second: Coin Animation_16
+  - first:
+      213: -444896266791867074
+    second: Coin Animation_17
+  - first:
+      213: -7028445364596057198
+    second: Coin Animation_18
+  - first:
+      213: 2090379261673967022
+    second: Coin Animation_19
+  - first:
+      213: 1849315350787584464
+    second: Coin Animation_20
+  - first:
+      213: -2875432601079376709
+    second: Coin Animation_21
+  - first:
+      213: -3955126560078449366
+    second: Coin Animation_22
+  - first:
+      213: -305962192818176390
+    second: Coin Animation_23
+  - first:
+      213: 8431446958130446001
+    second: Coin Animation_24
+  - first:
+      213: 5951859591964682340
+    second: Coin Animation_25
+  - first:
+      213: -5751685523909509691
+    second: Coin Animation_26
+  - first:
+      213: -9145224745642555026
+    second: Coin Animation_27
+  - first:
+      213: -2371802917975976173
+    second: Coin Animation_28
+  - first:
+      213: 7975439706892409185
+    second: Coin Animation_29
+  - first:
+      213: -8382789982303905286
+    second: Coin Animation_30
+  - first:
+      213: -5057016684447445303
+    second: Coin Animation_31
+  - first:
+      213: 2021655064808975058
+    second: Coin Animation_32
+  - first:
+      213: -858226878067748047
+    second: Coin Animation_33
+  - first:
+      213: -8624941639813197125
+    second: Coin Animation_34
+  - first:
+      213: -7244840014830696221
+    second: Coin Animation_35
+  - first:
+      213: 70974405099319508
+    second: Coin Animation_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Coin Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414f5279197fb5400800000000000000
+      internalID: 314116803710546964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Animation_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 33
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c086beda58f83080800000000000000
+      internalID: -9207336368991731520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Animation_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de01bb93f351017b0800000000000000
+      internalID: -5255677403845685011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Animation_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 18
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a6a9fe667d96e90800000000000000
+      internalID: -7031852506055808454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Animation_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eda0fc485ae4530800000000000000
+      internalID: 3841189522021473899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin Animation_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6dccffc24225d70800000000000000
+      internalID: 9030319978520041152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
